@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\bin\Debug\TIMS.exe.config
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\bin\Debug\TIMS.exe
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\bin\Debug\TIMS.pdb
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.Form1.resources
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.Properties.Resources.resources
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.exe
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.pdb
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.ManageFile.resources
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.Table.resources
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.SampleTable.resources
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.Graph.resources
+C:\Users\Home\Desktop\Навчання\ТІМС\TIMS\TIMS\obj\Debug\TIMS.Characteristics.resources
